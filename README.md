@@ -1,4 +1,4 @@
 Test
 ====
 
-Tset for git usage
+Test for git usage
